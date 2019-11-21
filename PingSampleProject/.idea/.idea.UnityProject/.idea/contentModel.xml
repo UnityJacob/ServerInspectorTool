@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\MMBETA\MultiplayPingSample\UnityProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Sample" t="Include">
+          <e p="Client" t="Include">
+            <e p="Client.asmdef" t="Include" />
+            <e p="ClientWatcherBehaviour.cs" t="Include" />
+            <e p="GuiPingClientBehaviour.cs" t="Include" />
+            <e p="HeadlessPingClientBehaviour.cs" t="Include" />
+            <e p="ServerInspectorMono.cs" t="Include" />
+            <e p="Utilities" t="Include">
+              <e p="MatchmakingWrapper.cs" t="Include" />
+              <e p="NetworkUtils.cs" t="Include" />
+              <e p="PingStats.cs" t="Include" />
+              <e p="PingUtilities.cs" t="Include" />
+              <e p="QosDiscoveryAsyncWrapper.cs" t="Include" />
+              <e p="QosPingAsyncWrapper.cs" t="Include" />
+              <e p="UdpPingClient.cs" t="Include" />
+              <e p="UdpPingWrapper.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Server" t="Include">
+            <e p="Backfill" t="Include">
+              <e p="BackfillClient.cs" t="Include" />
+              <e p="BackfillLogic.cs" t="Include" />
+              <e p="Contracts" t="Include">
+                <e p="Assignment.cs" t="Include" />
+                <e p="BackendExpansion.cs" t="Include" />
+                <e p="BackfillRequest.cs" t="Include" />
+                <e p="BackfillResult.cs" t="Include" />
+                <e p="Filter.cs" t="Include" />
+                <e p="FunctionKind.cs" t="Include" />
+                <e p="MatchFunction.cs" t="Include" />
+                <e p="MatchProperties.cs" t="Include" />
+                <e p="SimpleBackfillConfig.cs" t="Include" />
+                <e p="TargetFunction.cs" t="Include" />
+                <e p="Ticket.cs" t="Include" />
+              </e>
+              <e p="SessionServiceClient.cs" t="Include" />
+            </e>
+            <e p="MultiplayPingServer.cs" t="Include" />
+            <e p="MultiplayPingServerBehaviour.cs" t="Include" />
+            <e p="Plugins" t="Include">
+              <e p="JsonDotNet" t="Include">
+                <e p="link.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Server.asmdef" t="Include" />
+            <e p="Tests" t="Include">
+              <e p="NewTestScript.cs" t="Include" />
+              <e p="Tests.asmdef" t="Include" />
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="AsyncResult.cs" t="Include" />
+              <e p="DedicatedServerConfig.cs" t="Include" />
+              <e p="GameServerConfig.cs" t="Include" />
+              <e p="GameServerUdpPingHandler.cs" t="Include" />
+              <e p="Http" t="Include">
+                <e p="HttpClientBase.cs" t="Include" />
+              </e>
+              <e p="MultiplayConfig.cs" t="Include" />
+              <e p="MultiplayServerStatusQueryHandler.cs" t="Include" />
+              <e p="ServerSettings.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ServerInspector" t="Include">
+            <e p="ClientInspectorUI.cs" t="Include" />
+            <e p="MatchmakingClientBehaviour.cs" t="Include" />
+            <e p="MatchmakingConfigAsset.cs" t="Include" />
+            <e p="MatchmakingUI.cs" t="Include" />
+            <e p="ServerConnectorUI.cs" t="Include" />
+            <e p="ServerPingBehaviour.cs" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Shared.asmdef" t="Include" />
+            <e p="Utilities" t="Include">
+              <e p="CommandLine.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Client.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="com.unity.transport" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PipelineCollectionGeneratorWindow.cs" t="Include" />
+            <e p="Unity.Networking.Transport.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Bindings" t="Include">
+              <e p="network.bindings.cs" t="Include" />
+            </e>
+            <e p="DataStream.cs" t="Include" />
+            <e p="INetworkDriver.cs" t="Include" />
+            <e p="IPCManager.cs" t="Include" />
+            <e p="NetworkCompressionModel.cs" t="Include" />
+            <e p="NetworkConnection.cs" t="Include" />
+            <e p="NetworkDriver.cs" t="Include" />
+            <e p="NetworkEndPoint.cs" t="Include" />
+            <e p="NetworkEventQueue.cs" t="Include" />
+            <e p="NetworkInterface.cs" t="Include" />
+            <e p="NetworkLogger.cs" t="Include" />
+            <e p="NetworkParams.cs" t="Include" />
+            <e p="NetworkPipeline.cs" t="Include" />
+            <e p="NetworkProtocols.cs" t="Include" />
+            <e p="Pipelines" t="Include">
+              <e p="DefaultPipelineStageCollection.cs" t="Include" />
+              <e p="ReliableSequencedPipelineStage.cs" t="Include" />
+              <e p="ReliableUtility.cs" t="Include" />
+              <e p="SimulatorPipelineStage.cs" t="Include" />
+              <e p="SimulatorUtility.cs" t="Include" />
+              <e p="UnreliableSequencedPipelineStage.cs" t="Include" />
+            </e>
+            <e p="Unity.Networking.Transport.asmdef" t="Include" />
+            <e p="Utilities.cs" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.ucg.matchmaking" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="IMatchmakingRequest.cs" t="Include" />
+            <e p="MatchmakingClient.cs" t="Include" />
+            <e p="MatchmakingModel.cs" t="Include" />
+            <e p="MatchmakingModelProtobuf.cs" t="Include" />
+            <e p="MatchmakingRequest.cs" t="Include" />
+            <e p="UnityEngine.Ucg.Matchmaking.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.ucg.mmconnector" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="Qos" t="Include">
+              <e p="QosConnector.cs" t="Include" />
+              <e p="QosTicketInfo.cs" t="Include" />
+            </e>
+            <e p="unity.ucg.mmconnector.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.ucg.qos" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="InternalQosServer.cs" t="Include" />
+            <e p="JsonHelper.cs" t="Include" />
+            <e p="QosDiscovery.cs" t="Include" />
+            <e p="QosDiscoveryClient.cs" t="Include" />
+            <e p="QosHelper.cs" t="Include" />
+            <e p="QosJob.cs" t="Include" />
+            <e p="QosRequest.cs" t="Include" />
+            <e p="QosResponse.cs" t="Include" />
+            <e p="QosResult.cs" t="Include" />
+            <e p="QosServer.cs" t="Include" />
+            <e p="QosStats.cs" t="Include" />
+            <e p="Unity.ucg.QoS.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.ucg.usqp" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="UdpExtensions.cs" t="Include" />
+            <e p="Unity.Ucg.Usqp.asmdef" t="Include" />
+            <e p="Usqp.cs" t="Include" />
+            <e p="UsqpServer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Server.csproj" t="IncludeRecursive" />
+      <e p="Shared.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tests.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.Editor.csproj" t="IncludeRecursive" />
+      <e p="unity.ucg.mmconnector.csproj" t="IncludeRecursive" />
+      <e p="Unity.ucg.QoS.csproj" t="IncludeRecursive" />
+      <e p="Unity.Ucg.Usqp.csproj" t="IncludeRecursive" />
+      <e p="UnityEngine.Ucg.Matchmaking.csproj" t="IncludeRecursive" />
+      <e p="UnityProject.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\jacob.lorentzen\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jacob.lorentzen\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_UnityProject.-902435372.00" t="ExcludeRecursive" />
+  </component>
+</project>

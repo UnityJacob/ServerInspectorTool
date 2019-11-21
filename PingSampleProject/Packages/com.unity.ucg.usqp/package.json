@@ -1,0 +1,17 @@
+{
+	"name": "com.unity.ucg.usqp",
+	"displayName": "Server Query Protocol",
+	"version": "0.1.0-preview",
+	"unity": "2019.1",
+	"description": "Implementation of Multiplay's Server Query Protocol (SQP) for Unity.  SQP is used to provide information about a dedicated game server's state to Multiplay.",
+	"keywords": [
+		"Multiplay",
+		"server",
+		"connected games",
+		"query protocol",
+		"usqp"
+	],
+	"dependencies": {
+		"com.unity.transport": "0.1.0-preview"
+	}
+}

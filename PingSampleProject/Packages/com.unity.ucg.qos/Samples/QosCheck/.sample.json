@@ -1,0 +1,5 @@
+{
+	"displayName":"QoS Client Sample",
+	"description": "Sample code for using the QoS Client package.",
+	"createSeparatePackage": false
+}

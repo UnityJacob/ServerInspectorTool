@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fb66e9a2de2c848b8f1d1675e4a294, type: 3}
+  m_Name: PingSampleMMConfig
+  m_EditorClassIdentifier: 
+  MatchmakingURL: cloud.connected.unity3d.com
+  UPID: 5f8bc342-aaf5-478f-82fc-e22cdb6144b0
+  AccessKey: 2028df3e72204f8c838bba14176961cb
+  SecretKey: 3e1392ad56f54d6fb6d11416fe14717c
+  MultiplayFleetID: b6ba1954-aaa2-45f5-ad07-34443d879289
+  DefaultRegion: d4ab899f-ffee-11e9-8a0b-e19ddf010373

@@ -1,0 +1,9 @@
+{
+	"name": "com.unity.ucg.mmconnector",
+	"displayName": "Multiplay MM Connector",
+	"version": "0.1.0-preview.1",
+	"unity": "2019.1",
+	"description": "A connecting libary which allows different packages to automatically append data to matchmaking tickets used by the Multiplay Matchmaking client.",
+	"dependencies": {
+	}
+}

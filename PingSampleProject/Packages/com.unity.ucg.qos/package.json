@@ -1,0 +1,11 @@
+{
+	"name": "com.unity.ucg.qos",
+	"displayName": "Multiplay QoS Client",
+	"version": "0.1.0-preview.2",
+	"unity": "2019.1",
+	"description": "Unity runtime library for clients to query QoS service for Multiplay-hosted dedicated game servers.",
+	"dependencies": {
+		"com.unity.transport": "0.1.0-preview",
+		"com.unity.ucg.mmconnector": "0.1.0-preview.1"
+	}
+}
